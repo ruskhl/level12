@@ -1,1 +1,44 @@
 
+#navbar {
+  position: fixed;
+  background-color: black;
+  color: white;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+  bottom: 90%;
+}
+ ul {
+   list-style-type: none;
+   margin: 0px;
+   padding: 0px;
+ }
+ li {
+   float: left;
+   width: 25%;
+   text-align: center;
+   font-size: 30px;
+
+ }
+
+ section {
+   height: 100vh;
+   width : 80%;
+   margin-left: auto;
+   margin-right: auto;
+ }
+ p {
+   margin-left: auto;
+   margin-right: auto;
+ }
+ a {
+   text-decoration: none;
+
+ }
+ h1 {
+   text-align: center;
+   padding-top: 80px;
+ }
+ #home {
+   top: 50px;
+ }
